@@ -8,4 +8,4 @@ git clone https://github.com/Harmony-0016/SEG2105-Labs.git
   
 cd SEG2105-Labs 
 
-git checkout -b <your-branch-name>
+git checkout -b main
