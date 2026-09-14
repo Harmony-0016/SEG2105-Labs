@@ -10,3 +10,10 @@ git clone https://github.com/Harmony-0016/SEG2105-Labs.git
 cd SEG2105-Labs 
 
 git checkout -b code
+
+# Normal workflow after cloning:
+There will be other branches created as we go but currently we will focus on the code branch. Change the word code for when you intend to commit to another branch
+
+git add .
+git commit -m "Enter a description of what has been updated"
+git push origin code
